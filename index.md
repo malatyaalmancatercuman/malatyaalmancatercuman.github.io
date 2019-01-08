@@ -1,21 +1,19 @@
 ---
 layout: home2
-title: Me in a Nutshell
-description: "Jordi Pont-Tuset's website"
+title: About me
+description: "Cagatay Isil's website"
 tags: [Jekyll, theme, responsive, blog, template]
-image:
-  feature: trees.jpg
----
+#image:
+#  feature: trees.jpg
+#---
 
-I am a research scientist at <a href="https://research.google.com" target="_blank">Google Research</a> 
-and part of the advisory board of <a href="http://www.vilynx.com/index.html" target="_blank">Vilynx</a>.
 
-<br />
-Previously, I worked at <a href="http://www.vision.ee.ethz.ch/index.en.html" target="_blank">ETHZ</a>
-and <a href="http://www.disneyresearch.com/research-labs/disney-research-zurich/" target="_blank">Disney Research</a>,
-and I collaborated with <a href="http://www.cs.berkeley.edu/~malik/" target="_blank">Prof. J. Malik</a>'s vision group 
-and with the startup <a href="http://fezoo.cat" target="_blank">Fezoo</a>.
+I am a second-year M.S. student in <a href="https://eee.metu.edu.tr/" target="_blank">Electrical and Electronics Engineering</a> (EE) and a recent graduate of double major in EE and Physics at <a href="http://www.metu.edu.tr/" target="_blank">Middle East Technical University</a>.
 
 <br />
-I am a mathematician, engineer, and PhD in computer vision by <a href="http://www.upc.edu" target="_blank">UPC Barcelonatech</a>.
+My primary research interests are in the areas of computational imaging, machine learning, signal processing and optics.
+
+<br />
+During my undergraduate research and M.S. studies with <a href="https://blog.metu.edu.tr/figeno/" target="_blank">Asst. Prof. Figen S. Oktem</a>, I have particularly focused on the classical phase retrieval problem and phase-space optics. I have also worked on the resolution enhancement of microscopy images by exploiting deep learning algorithms and representation learning under the supervision of <a href="https://www.linkedin.com/in/aykut-ko%C3%A7-9a37abb5/" target="_blank">Dr. Aykut Koc</a>.
+
 
