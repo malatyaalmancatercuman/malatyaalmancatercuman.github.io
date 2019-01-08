@@ -1,23 +1,23 @@
-title:            Jordi Pont-Tuset's site
+title:            Cagatay Isil's site
 description:      Welcome to my site.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              //jponttuset.github.io
+url:              //cagatayisil.github.io
 #http://localhost:5000
 #https://jponttuset.github.io
-disqus_shortname: jponttuset
+disqus_shortname: cagatayisil
 
 # Owner/author information
 owner:
-  name:           Jordi Pont-Tuset
-  avatar:         jordi.png
-  bio:            I'm from a small town near Girona, Catalunya. Currently in Zürich, Switzerland. Passionate about computer vision, technology, running, and mountains.
-  email:          jponttuset@gmail.com
+  name:           Cagatay Isil
+  avatar:         cgty.JPG
+  bio:            
+  email:          cagatayisil@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: jponttuset
-  linkedin: jponttuset
-  google_scholar: VCBBx24AAAAJ
-  google_plus: 113718226018314522413
-  github: jponttuset
+  twitter: Cgtysl
+  linkedin: cagatayisil
+  google_scholar: xpNu7vMAAAAJ&hl=tr
+  google_plus: 
+  github: Cagatayisil
 # Analytics and webmaster tools stuff goes here
 google_analytics: UA-52736040-1
 google_verify:
@@ -37,7 +37,7 @@ links:
     url: /blog/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Europe/Zurich
+timezone:    America/Los_Angeles
 future:      true
 #pygments:    true
 highlighter: rouge
