@@ -1,11 +1,11 @@
 ---
-layout: home
+layout: home2
 title: About me
 description: "Cagatay Isil's website"
 tags: [Jekyll, theme, responsive, blog, template]
-#image:
- # feature: trees.jpg
-#---
+image:
+  feature: 
+---
 
 
 I am a second-year M.S. student in <a href="https://eee.metu.edu.tr/" target="_blank">Electrical and Electronics Engineering</a> (EE) and a recent graduate of double major in EE and Physics at <a href="http://www.metu.edu.tr/" target="_blank">Middle East Technical University</a>.
