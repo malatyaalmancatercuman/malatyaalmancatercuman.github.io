@@ -33,8 +33,6 @@ links:
     url: /publications/
   - title: CV
     url: /cv/
-  - title: Blog
-    url: /blog/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Los_Angeles
