@@ -4,4 +4,4 @@ This site is based on the **[Minimal Mistakes](http://mmistakes.github.io/minima
 
 ## License
 
-Thank You [Jordi Pont-Tuset](http://jponttuset.cat/)
+Thank you [Jordi Pont-Tuset](http://jponttuset.cat/) for template.
