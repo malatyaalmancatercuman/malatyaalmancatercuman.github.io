@@ -1,6 +1,6 @@
 ---
 layout: home2
-title: About me
+title: UNDER CONSTRUCTION!!-About me
 description: "Cagatay Isil's website"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
