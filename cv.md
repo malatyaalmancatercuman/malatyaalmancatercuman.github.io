@@ -7,5 +7,5 @@ modified: 8-7-2014
 comments: false
 ---
 
-You can download my <a href="https://github.com/Cagatayisil/cagatayisil.github.io/raw/master/CV_cagatayisil.pdf" target="_blank">CV</a>.
+You can download my <a href="cagatayisil.github.io/CV_cagatayisil.pdf" target="_blank">CV</a>.
 
