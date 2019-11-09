@@ -12,8 +12,10 @@ I am a Ph.D. student in <a href="https://www.ee.ucla.edu/" target="_blank">Elect
 <br />
 My primary research interests are in the areas of computational imaging, machine learning, signal processing and optics.
 
+
 <br />
 I received my M.S. degree in <a href="https://eee.metu.edu.tr/" target="_blank">Electrical and Electronics Engineering (EE)</a> from <a href="http://www.metu.edu.tr/" target="_blank">Middle East Technical University (METU)</a>. I have completed my B.S. in both EE and Physics at METU.
+
 
 <br />
 During my undergraduate research and M.S. studies with <a href="https://blog.metu.edu.tr/figeno/" target="_blank">Asst. Prof. Figen S. Oktem</a>, I have particularly focused on the classical phase retrieval problem and phase-space optics. I have also worked on the resolution enhancement of microscopy images by exploiting deep learning algorithms and representation learning under the supervision of <a href="https://www.linkedin.com/in/aykut-ko%C3%A7-9a37abb5/" target="_blank">Dr. Aykut Koc</a>.
