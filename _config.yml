@@ -1,4 +1,4 @@
-title:            Cagatay Isil's Website
+title:           
 description:      Welcome to my site.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              //cagatayisil.github.io
@@ -11,7 +11,7 @@ owner:
   name:           Cagatay Isil
   avatar:         cgty.JPG
   bio:            
-  email:          cagatay.isil@metu.edu.tr
+  email:          cagatayisil@ucla.edu
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: Cgtysl
   linkedin: cagatayisil
@@ -31,8 +31,7 @@ links:
     url: /
   - title: Publications
     url: /publications/
-  - title: CV
-    url: /cv/
+
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Los_Angeles
