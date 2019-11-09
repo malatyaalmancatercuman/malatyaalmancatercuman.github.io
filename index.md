@@ -1,7 +1,7 @@
 ---
 layout: home2
-title: About me
-description: "Cagatay Isil's website"
+title: About
+description: "Last updated on November 9, 2019"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature: 
