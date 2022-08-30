@@ -1,5 +1,5 @@
 ---
-layout: publications
+layout: publications & talks
 permalink: /publications/
 title: Publications & Talks
 tags: [publications]
