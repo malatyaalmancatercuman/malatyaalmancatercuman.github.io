@@ -10,7 +10,7 @@ image:
 I am a Ph.D. candidate, supervised by <a href="https://innovate.ee.ucla.edu/prof-ozcan-brief-biosketch.html" target="_blank">Prof. Aydogan Ozcan</a> in <a href="https://www.ee.ucla.edu/" target="_blank">Electrical and Computer Engineering</a> at <a href="http://www.ucla.edu/" target="_blank">UCLA</a>.
 
 <br />
-My research interests are in the areas of computational imaging, machine learning, image processing.
+My research interests are in the areas of computational imaging, machine learning, and image processing.
 
 <br />
 I received my M.S. degree in <a href="https://eee.metu.edu.tr/" target="_blank">Electrical and Electronics Engineering (EE)</a> from <a href="http://www.metu.edu.tr/" target="_blank">Middle East Technical University (METU)</a>, where I have also completed my B.S. in both EE and Physics.
