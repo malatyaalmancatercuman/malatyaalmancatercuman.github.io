@@ -10,9 +10,10 @@ disqus_shortname: omeraydogan
 owner:
   name:           iletisim
   avatar:         omer123.jpeg
-  bio:            phone : +905427217395
+  bio:            
   email:          oemay@hotmail.com
- 
+  tel 1:          05427217395
+  tel 2:          05352968213
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   #$p <phone>: 05427217395
   #linkedin: cagatayisil
