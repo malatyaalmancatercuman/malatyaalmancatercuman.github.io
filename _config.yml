@@ -12,6 +12,7 @@ owner:
   avatar:         omer123.jpeg
   bio:            
   email:          oemay@hotmail.com
+  phone:          +905427217395
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   #$p <phone>: 05427217395
   #linkedin: cagatayisil
@@ -29,8 +30,8 @@ bing_verify:
 links:
   - title: Home
     url: /
-  - title: Publications & Talks
-    url: /publications/
+  #- title: Publications & Talks
+  #  url: /publications/
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
