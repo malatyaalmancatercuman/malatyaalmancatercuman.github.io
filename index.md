@@ -15,13 +15,7 @@ Memuriyetime paralel olarak 22 yıldan beri YEMİNLİ ALMANCA TERCÜMANI olarak 
 <br> 
 <br> 
 Bu süre zarfında Malatya’da farklı Yabancı dil kurslarında 15 yıl Almanca öğretmeni olarak A1( Aile Birleşimi) ve diğer seviyelerde öğrenci yetiştirdim. Özel Almanca derslerim halen devam etmektedir. Şu anda Malatya Noterlerinde Yeminli Almanca tercümanı olarak tercümanlık yapmaktayim.
-<br>
-<br>
-<br>
-**telefon numarası 1**: 0542 721 73 95
-<br>
-<br>
-**telefon numarası 2**: 0535 296 82 13
+
 
 
 
