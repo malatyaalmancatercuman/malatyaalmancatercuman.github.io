@@ -10,7 +10,7 @@ image:
 I am a Ph.D. candidate, supervised by <a href="https://innovate.ee.ucla.edu/prof-ozcan-brief-biosketch.html" target="_blank">Prof. Aydogan Ozcan</a> in <a href="https://www.ee.ucla.edu/" target="_blank">Electrical and Computer Engineering</a> at <a href="http://www.ucla.edu/" target="_blank">UCLA</a>.
 
 <br />
-My research interests are in the areas of computational imaging, machine learning, and image processing.
+İstanbul Üniversitesi Yabancı Diller Yüksek Okulu mezunuyum. Okulu bitirdikten Sonra Almanya’ya gittim. Almanya’da Pekiyi, derecede İleri Seviye Almanca Sertifikasına sahibim. Stuttgart Üniversitesi Politikwissenschaft ve Geschichte bölümlerinde okudum. 13 yıl sonunda Türkiye'ye dönüp Milli Eğitimde Öğretmenliğe başladım. Diğer okulların dışında 16 Yıl Malatya Anadolu Lisesinde Almanca Öğretmenliği yaptım. Ankara Genç Osman Anadolu Lisesinden emekli oldum. Memuriyetime paralel olarak 22 yıldan beri YEMİNLİ ALMANCA TERCÜMANI olarak çevirmenlik yapıyorum. 12 Yıl Malatya Adliyesinde ve Ankara Adliyesinde Almanca bilirkişilik yaptım. Bu süre zarfında Malatya’da farklı Yabancı dil kurslarında 15 yıl Almanca öğretmeni olarak A1( Aile Birleşimi) ve diğer seviyelerde öğrenci yetiştirdim. Özel Almanca derslerim halen devam etmektedir. Şu anda Malatya Noterlerinde Yeminli Almanca tercümanı olarak tercümanlık yapmaktayim.
 
 <br />
 I received my M.S. degree in <a href="https://eee.metu.edu.tr/" target="_blank">Electrical and Electronics Engineering (EE)</a> from <a href="http://www.metu.edu.tr/" target="_blank">Middle East Technical University (METU)</a>, where I have also completed my B.S. in both EE and Physics.
