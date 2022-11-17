@@ -11,13 +11,13 @@ owner:
   name:           iletisim
   avatar:         omer123.jpeg
   bio:            
-  email:          cagatayisil@ucla.edu
+  email:          oemay@hotmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  $p <phone>: 05427217395
-  linkedin: cagatayisil
-  google_scholar: xpNu7vMAAAAJ
-  google_plus: 
-  github: Cagatayisil
+  #$p <phone>: 05427217395
+  #linkedin: cagatayisil
+  #google_scholar: xpNu7vMAAAAJ
+  #google_plus: 
+  #github: Cagatayisil
 # Analytics and webmaster tools stuff goes here
 google_analytics: UA-131903816-1
 google_verify:
