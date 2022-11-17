@@ -12,8 +12,8 @@ owner:
   avatar:         omer123.jpeg
   bio:            
   email:          oemay@hotmail.com
-  tel 1:          05427217395
-  tel 2:          05352968213
+  tel_1:          05427217395
+  tel_2:          05352968213
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   #$p <phone>: 05427217395
   #linkedin: cagatayisil
