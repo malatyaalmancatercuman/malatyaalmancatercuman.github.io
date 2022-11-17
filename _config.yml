@@ -1,15 +1,15 @@
 title:         Ömer Aydoğan  
 description:      Welcome to my site.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              //cagatayisil.github.io
+url:              //malatyaalmancatercuman.github.io
 #http://localhost:5000
 #https://jponttuset.github.io
-disqus_shortname: cagatayisil
+disqus_shortname: omeraydogan
 
 # Owner/author information
 owner:
-  name:           Contact
-  avatar:         cgty3.jpeg
+  name:           iletisim
+  avatar:         omer1
   bio:            
   email:          cagatayisil@ucla.edu
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
