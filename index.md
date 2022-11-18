@@ -2,7 +2,8 @@
 layout: home2
 title: Hakkımda
 description: "Last updated on November 9, 2019"
-tags: [Jekyll, theme, responsive, blog, template]
+#tags: [Jekyll, theme, responsive, blog, template]
+tags: [Malatya, almanca, tercume, ozelders, tercuman]
 image:
   feature: 
 ---
